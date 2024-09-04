@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import style from "./Categories.module.css";
 import axios from "axios";
-import { Link } from "react-router-dom";
 
 
 
